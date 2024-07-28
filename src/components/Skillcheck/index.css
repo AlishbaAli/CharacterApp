@@ -1,0 +1,38 @@
+.skill-chk-btn {
+    background-color: #E0B0FF; 
+    color: white; 
+    padding-left: 1rem; 
+    padding-right: 1rem; 
+    padding-top: 0.5rem; 
+    padding-bottom: 0.5rem; 
+    border-radius: 0.25rem; 
+    margin-bottom: 1rem; 
+    border-color: white;
+  }
+  .main-div{
+     
+        margin-top: 1rem;
+        padding: 1rem;
+        border: 1px solid #e5e7eb;
+        border-radius: 0.25rem;
+      
+  }
+  .h4{
+   
+        font-weight: 700;
+        margin-bottom: 0.5rem;
+      
+  }
+  .mr-2{
+    margin-right: 0.5rem;
+}
+.mb-2{
+    margin-bottom: 0.5rem;   
+}
+.select-inp{
+    border: 1px solid #e5e7eb;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}
